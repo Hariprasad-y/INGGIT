@@ -108,5 +108,11 @@
             </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+  <repository>
+    <id>Hariprasad</id>
+    <url>http://13.228.29.156:8081/nexus/content/repositories/Hariprasad</url>
+  </repository>
+</distributionManagement>
     
 </project>
